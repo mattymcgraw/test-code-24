@@ -746,6 +746,11 @@ globals@^13.6.0, globals@^13.9.0:
   dependencies:
     type-fest "^0.20.2"
 
+grunt-watch-change@0.1.1:
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/grunt-watch-change/-/grunt-watch-change-0.1.1.tgz#fab1281eb66f44aef02a7f2f1335944c6c05ec08"
+  integrity sha512-eUQ02+8qyvYRsGVyhYg4SaJzqkrbmTY0EMLZ7DwAHRxp2J4/582aX/pZ4Rt2M8DQ6qknxhseB7tYziLgNtyKIA==
+
 has-flag@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/has-flag/-/has-flag-3.0.0.tgz#b5d454dc2199ae225699f3467e5a07f3b955bafd"
